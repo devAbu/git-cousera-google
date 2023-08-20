@@ -1,4 +1,4 @@
 # git-cousera-google
 
-Repo for the task
+Repo for lab task
 I am editing the README file. Adding some more details about the project description.
